@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">UTFPRWEB Login</string>
+    <string name="about">Sobre</string>
+
+    <string name="close">Fechar</string>
+    <string name="welcome_message">UTFPRWEB</string>
+    <string name="username">Matrícula</string>
+    <string name="password">Senha</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Salvo com sucesso</string>
+    <string name="username_hint">matrícula</string>
+    <string name="logon">Logar</string>
+    <string name="sent">Login enviado para o servidor!</string>
+    <string name="username_tip">Ex: a1234567</string>
+    <string name="gitMessage">Modificado de github.com/moshekaplan/WifiAutologin</string>
+    <string name="facebook">Página no Facebook</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="voltar">Voltar</string>
+    <string name="avancar">Avançar</string>
+
+</resources>

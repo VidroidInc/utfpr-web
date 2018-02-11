@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\9cff68b5dad285dc607ec991e10db63f\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\9cff68b5dad285dc607ec991e10db63f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\9cff68b5dad285dc607ec991e10db63f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:18:5-43:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:22:9-44
+activity#com.moshekaplan.android.wifiautologin.activities.EditConfiguration
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:24:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.libel.android.wifiautologin.AboutActivity
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:32:9-34:60
+	android:theme
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:33:13-73
+receiver#com.moshekaplan.android.wifiautologin.broadcastreceivers.WifiConnectedReceiver
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:36:19-75
+intent-filter#android.net.wifi.supplicant.CONNECTION_CHANGE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.net.wifi.supplicant.CONNECTION_CHANGE
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:38:17-88
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:38:25-85
+activity#com.libel.android.wifiautologin.AjudaActivity
+ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:42:9-91
+	android:name
+		ADDED from C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\src\main\AndroidManifest.xml:42:19-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\AndroidManifest.xml:25:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:21:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:17-71
+permission#com.libel.android.wifiautologin.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:26:22-76
+uses-permission#com.libel.android.wifiautologin.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.libel.android.wifiautologin
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:33:27-58
+category#com.libel.android.wifiautologin
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\AndroidManifest.xml:20:20-65

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f0e5eed9d2b0761a94291508a932e536\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1ea80a889026f06345b0f80b6362d26d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\deb021c5ce0ebf02a1006048fa41b0e9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d90af23ac559ffd9a45471bbad8a9ded\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\9cff68b5dad285dc607ec991e10db63f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\75e074c0e78c055d81783ef8a4c32f37\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\4980db7ef46e74a08486cde949372b2c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d1a3d8de9df9b5c9aa61b4c92cd3a6a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\953a3948cfc2361c3e237c5b75017f87\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\699424ccfdaf181ceec4b1ae0091ab04\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9eb3b7afacb7483c9aecb3d0376ca725\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\85628159a982bd77ef3318b9cb7c7262\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\200627b21c659d9a9851da0d9ecba677\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\4b6863bf66c298a287100d1230f76bb1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\a7e3dcf2554ffcfb55ad722ad8af9f7b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\2fc26a7e7913a7e1489b85c040c32e72\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3cee5d528b698678fb774070047c745f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\f280222827738b42d1a406e9236502f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otavi\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\c47741a1f05d47de329146061e3e9ff1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Development\Android\AndroidStudio\UTFWifi Login\android-utfprweb-login\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+
+</items>
